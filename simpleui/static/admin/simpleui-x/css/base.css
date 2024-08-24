@@ -5,8 +5,8 @@
   padding: 8px 30px !important;
 }
 .inline-group .tabular td.original p {
-  left: 15px;
-  padding: 3px 10px;
+  left: 15px !important;
+  padding: 3px 10px !important;
 }
 form .aligned div.help {
   margin-top: 5px !important;
