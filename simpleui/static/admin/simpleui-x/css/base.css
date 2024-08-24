@@ -4,6 +4,10 @@
 #toolbar {
   padding: 8px 30px !important;
 }
+.inline-group .tabular td.original p {
+  left: 15px;
+  padding: 3px 10px;
+}
 form .aligned div.help {
   margin-top: 5px !important;
   margin-left: 0px !important;
