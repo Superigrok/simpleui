@@ -1,6 +1,9 @@
 #changelist {
   display: block !important;
 }
+#toolbar {
+  margin-left: 8px 30px;
+}
 .change-list .filtered .results,
 .change-list .filtered .paginator,
 .filtered #toolbar,
@@ -36,6 +39,7 @@
   display: inline-block;
   width: auto;
   margin-right: 10px;
+  margin-bottom: 5px;
 }
 #changelist #toolbar form input {
   padding-left: 30px !important;
